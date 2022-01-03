@@ -1669,3 +1669,20 @@ input, select, textarea {
 			padding-bottom: 0.5rem;
 			margin: 0 0 2rem 0;
 	}
+
+	.skills-logos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+	.skills-logos p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+	#main .logos {
+			width: 3rem;
+			height: 3rem;
+	}
